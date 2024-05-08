@@ -1,0 +1,19 @@
+{
+  "name": "vidmuse-backend",
+  "version": "1.0.0",
+  "description": "vidmuse backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vidmuse",
+    "youtube",
+    "backend",
+    "express",
+    "mongoose",
+    "mongo"
+  ],
+  "author": "Dikhunmekh",
+  "license": "ISC"
+}
